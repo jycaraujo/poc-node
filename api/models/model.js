@@ -17,7 +17,7 @@ var PlanetSchema = new Planet({
         required: 'Por favor, digite o tipo do terreno:'
     },
     movie_appearances: {
-        type: Number,
+        type: String,
         default: 0
     }
 });
