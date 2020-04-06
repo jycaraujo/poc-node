@@ -1,5 +1,4 @@
-# RESTful-API
-## Desafio Técnico - Dev. Back-End B2W
+# RESTful-API in Nodejs
 
 Sabendo que os nossos associados são aficionados por Star Wars, a B2W gostaria de criar um jogo com algumas informações da franquia.
 
