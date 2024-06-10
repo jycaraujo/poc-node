@@ -1,12 +1,6 @@
 # RESTful-API in Nodejs
 
-Sabendo que os nossos associados são aficionados por Star Wars, a B2W gostaria de criar um jogo com algumas informações da franquia.
-
- 
-
-Para possibilitar a equipe de front criar essa aplicação, queremos desenvolver uma API que contenha os dados dos planetas. Requisitos:
-
-
+Desenvolver uma API que contenha os dados dos planetas. Requisitos:
 
 A API deve ser REST
 Para cada planeta, os seguintes dados devem ser obtidos do banco de dados da aplicação, sendo inserido manualmente:
